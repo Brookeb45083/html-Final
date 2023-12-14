@@ -1,0 +1,115 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+
+h4{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.bestoffice{
+    font-size: xx-large;
+    color: white;
+    font-weight: bolder;
+}
+
+.header{
+    text-align: left;
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 40px;
+}
+
+.bold{
+    font-size: x-large;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.Introtext{
+    text-align: center;
+}
+
+.headerfont{
+color: rgb(27, 15, 27);
+}
+
+.portfoliobg{
+    background-color: rgb(124, 124, 124);
+
+}
+
+.portfoliotoplist{
+    list-style-type: none;
+    font-size:x-large;
+    color: rgb(48, 16, 48);
+    font-weight: bolder;
+}
+
+.center{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(48, 16, 48);
+    font-weight: bolder;
+    
+}
+    
+.portfoliolist{
+    text-decoration: none;
+    color: rgb(218, 202, 182);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: cursive;
+    list-style:circle;
+    list-style-position: inside;
+    font-size: large;
+    
+}
+.underline{
+    text-decoration: underline;
+}
+
+.Leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 40px;
+    /* border-right: solid 1px white; */
+
+}
+
+.Mainbody{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+}
+
+
+.id{
+    color: rgb(0, 0, 0);
+    font: bold;
+}
+
+.box1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    padding: 2px;
+    margin: 10px;
+}
+
+img{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 2.5px;
+  padding-right: 2.5px;
+}
